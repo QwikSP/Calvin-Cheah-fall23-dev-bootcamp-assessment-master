@@ -1,10 +1,21 @@
 /* Your Styles Here lol */
-img {
-    border-radius: 50%;
-  }
+
 body {
     margin: 0;
     background: rgb(142, 217, 183);
     text-align: center;
+
+    img {
+        border-radius: 50%;
+      }
+    .resize {
+        width: 400px;
+        height: auto;
+    }
+    
+    .resize {
+        width: 300px;
+        height: auto;
+    } 
 
 }
