@@ -1,4 +1,7 @@
 /* Your Styles Here lol */
+img {
+    border-radius: 50%;
+  }
 body {
     margin: 0;
     background: rgb(142, 217, 183);
