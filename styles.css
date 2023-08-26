@@ -6,12 +6,11 @@ img {
     height: auto;
   }
 div {
-    word-wrap: break-word;
-    width: 100px;
+    /* width: 1000px; */
     font-size: 20px;
+    text-align: center;
  }
 body {
-    margin: 50px;
+    margin: 300px;
     background: rgb(142, 217, 183);
-    text-align: center;
 }
