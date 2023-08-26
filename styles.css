@@ -8,6 +8,7 @@ img {
 div {
     word-wrap: break-word;
     width: 100px;
+    font-size: 20px;
  }
 body {
     margin: 50px;
