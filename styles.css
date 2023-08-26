@@ -5,6 +5,10 @@ img {
     width: 30%;
     height: auto;
   }
+div {
+    word-wrap: break-word;
+    width: 100px;
+ }
 body {
     margin: 50px;
     background: rgb(142, 217, 183);
