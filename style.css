@@ -60,15 +60,15 @@
 
 .img {
   width: auto;
-  height: 20vw;
+  height: 25vw;
   /* margin-top: 4px; */
 
 }
 
 .card {
   /* margin: 100px auto 0; */
-  width: 30vw;
-  height: 20vw;
+  width: 35vw;
+  height: 25vw;
   perspective: 1000px;
 }
 .card__inner {
@@ -114,7 +114,7 @@
   transform: rotateY(180deg);
 }
 .card__content {
-  width: 30vw;
+  width: 35vw;
   height: 30vw;
 }
 .card__header {
