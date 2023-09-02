@@ -8,5 +8,6 @@ This page has information regarding my:
 - name
 - major
 - year
+- where I'm from
 - a social good that I'm passionate.
 
